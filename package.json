@@ -1,0 +1,32 @@
+{
+  "name": "react-bulma",
+  "version": "1.0.0-alpha-1.0",
+  "description": "React components for Bulma CSS framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vjrngn/react-bulma.git"
+  },
+  "keywords": [
+    "react",
+    "bulma",
+    "react-bulma",
+    "bulma-css"
+  ],
+  "author": "Vijay Rangan <vijay.rangan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vjrngn/react-bulma/issues"
+  },
+  "homepage": "https://github.com/vjrngn/react-bulma#readme",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
+}
